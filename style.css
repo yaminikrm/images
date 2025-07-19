@@ -467,11 +467,11 @@ SERVICES CSS
 @media(max-width768px){
     .service-icon {
     height: 155px;
-    width: 185px;
+    width: 190px;
 }
 .streetcorner-service-icon {
     height: 152px;
-    width: 185px;
+    width: 190px;
 }
 
 }
